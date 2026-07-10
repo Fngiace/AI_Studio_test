@@ -1,0 +1,6 @@
+{
+  "name": "杭州小籠包",
+  "description": "精美的杭州小籠包介紹網站，探索傳統工藝、美味秘訣與品嚐指南。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
